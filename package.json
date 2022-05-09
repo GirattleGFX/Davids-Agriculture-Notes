@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "eleventy-plugin-seo": "0.5.2",
-    "luxon": "^2.3.2"
+    "luxon": "^2.4.0"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
