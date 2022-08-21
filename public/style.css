@@ -1,7 +1,7 @@
 :root {
-  --color-bg: #D7F5EF;
-  --color-text-main: #000000;
-  --color-primary: #AFECE0;
+  --color-bg: #1A3331;
+  --color-text-main: #f5f5f5;
+  --color-primary: #7ABE70;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
   --font-family: "HK Grotesk";
@@ -92,6 +92,7 @@ a:not(.btn--github):visited {
 body {
   font-family: var(--font-family);
   background-color: var(--color-bg);
+  color: var(--color-text-main);
 }
 .wrapper {
   min-height: var(--wrapper-height);
