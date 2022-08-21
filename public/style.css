@@ -71,7 +71,7 @@ a:not(.btn--github):visited {
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #000;
+  color: var(--color-text-main);
   text-decoration: none;
   border-style: none;
 }
@@ -165,7 +165,7 @@ a:not(.btn--github):link,
 a:not(.btn--github):visited {
   text-decoration: none;
   border-bottom: 6px solid var(--color-primary);
-  color: var(--foreground);
+  color: var(--color-text-main);
   transition: background 0.2s linear;
 }
 a:hover {
