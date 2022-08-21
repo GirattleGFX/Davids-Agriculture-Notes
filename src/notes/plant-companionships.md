@@ -3,8 +3,8 @@ title: Plant Companionships
 description: class notes for companionships for plants!
 date: 2022-08-22
 tags:
-  - posts
-layout: layouts/post.njk
+  - notes
+layout: layouts/note.njk
 ---
 
 ### What are plant companionships and how do they work?

@@ -3,20 +3,15 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 
-{# The Home page uses this template–it extends the base template #}
+{# This is the template for the Posts page–it lists the notes in the collection #}
 
 <div class="wrapper home">
   <div class="content">
     {{ content | safe }}
-    
-    {# After the the content defined in index.md, list the blog posts in the collection #}
     <ul>
-      {%- for post in collections.posts -%}
+      {%- for note in collections.notes -%}
         <li{% if page.url == note.url %} aria-current="page"{% endif %}>{{ note.data.page.date | htmlDateString }} — <a href='{{ note.url }}'>{{ note.data.title }}</a></li>
       {%- endfor -%}
-      <li><a href="/notes">View all notes</a></li>
     </ul>
   </div>
 </div>
-
-

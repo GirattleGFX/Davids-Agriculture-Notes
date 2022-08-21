@@ -199,11 +199,11 @@ a:hover {
   margin-right: 2rem;
 }
 
-/* Post */
-.post {
+/* Note */
+.note {
   place-items: normal;
 }
-.postTitle {
+.noteTitle {
   font-size: 4rem;
   color: #7ABE70;
   line-height: 1.1;
