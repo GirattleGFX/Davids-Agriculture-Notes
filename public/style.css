@@ -128,7 +128,7 @@ h1 {
   margin-bottom: 1.75rem;
   font-size: 5rem;
   display: inline-flex;
-  color: #2800FF;
+  color: #7ABE70;
 }
 h2 {
   font-size: 4rem;
@@ -188,16 +188,16 @@ a:hover {
 .home {
   justify-content: left;
 }
-.illo-container {
+
+.img-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
-.illustration {
+.photo {
   max-width: 180px;
   max-height: var(--image-max-width);
   margin-top: 1rem;
   margin-right: 2rem;
-  transform: rotate(16deg);
 }
 
 /* Post */
@@ -206,7 +206,7 @@ a:hover {
 }
 .postTitle {
   font-size: 4rem;
-  color: #000;
+  color: #7ABE70;
   line-height: 1.1;
   margin-bottom: 2rem;
 }
