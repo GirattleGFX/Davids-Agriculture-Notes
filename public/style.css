@@ -108,6 +108,8 @@ body {
   font-family: var(--font-family);
   background-color: var(--color-bg);
   color: var(--color-text-main);
+  background-image: url("https://cdn.glitch.global/1c26d864-e21a-4373-9e6a-e68677b80ae5/0a0c4329-8ed2-4fdb-a174-6f8aef489773.image.png?v=1661176843311");
+  background-size: cover;
 }
 .wrapper {
   min-height: var(--wrapper-height);
