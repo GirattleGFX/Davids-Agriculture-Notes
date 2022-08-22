@@ -54,6 +54,22 @@
   background-color: #D0FFF1;
 }
 
+.pfp {
+  padding: 0.75rem 1rem;
+  font-size: 1.1rem;
+  line-height: 1rem;
+  font-weight: 500;
+  height: 2.75rem;
+  align-items: center;
+  cursor: pointer;
+  background-color: transparent;
+  box-sizing: border-box;
+  border-radius: none;
+  text-decoration: none;
+  white-space: nowrap;
+  margin-right: auto;
+}
+
 /* Navigation grid */
 .footer {
   display: flex;
