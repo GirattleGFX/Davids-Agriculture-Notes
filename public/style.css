@@ -121,6 +121,12 @@ body {
   margin: 0 auto;
 }
 
+header {
+  background-image: url("https://cdn.glitch.global/1c26d864-e21a-4373-9e6a-e68677b80ae5/d74d8386-0bda-42cd-b726-bba7359b7f86.image.png?v=1661169876926");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /* Typography */
 p {
   margin: 0 0 1rem 0;
