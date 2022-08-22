@@ -16,16 +16,16 @@ templateClass: tmpl-home
     {{ content | safe }}
     <div class="controls">
     {# The previous and next note data is added in .eleventy.js #}
-    {% if prevNote.url %}
+    {% if prevPost.url %}
       <p>
         <strong>Previous note</strong>: 
-        <a class="previous" href="{{ prevNote.url }}">{{ prevNote.data.title }}</a>
+        <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
       </p>
     {% endif %}
-    {% if nextNote.url %}
+    {% if nextPost.url %}
       <p>
         <strong>Next note</strong>: 
-        <a class="next" href="{{ nextNote.url }}">{{ nextNote.data.title }}</a>
+        <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
       </p>
     {% endif %}
     </div>
