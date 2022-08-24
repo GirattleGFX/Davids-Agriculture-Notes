@@ -109,7 +109,18 @@ body {
   /*background-color: var(--color-bg);*/
   background: rgb(26,51,49);
   background: linear-gradient(130deg, rgba(26,51,49,1) 0%, rgba(90,143,82,1) 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
   color: var(--color-text-main);
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 620px) {
+
+   body { 
+      font-size: 1em; 
+   }
+
 }
 .wrapper {
   min-height: var(--wrapper-height);
@@ -123,11 +134,6 @@ body {
   margin: 0 auto;
 }
 
-.content img {
-  width: 75%;
-  height: auto;
-  margin
-}
 /* Typography */
 p {
   margin: 0 0 1rem 0;
