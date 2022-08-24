@@ -115,13 +115,6 @@ body {
   overflow-x: hidden;
 }
 
-@media only screen and (max-width: 620px) {
-
-   body { 
-      font-size: 1em; 
-   }
-
-}
 .wrapper {
   min-height: var(--wrapper-height);
   place-items: center;
@@ -154,13 +147,11 @@ h5 {
 h1 {
   margin-top: 1rem;
   margin-bottom: 1.75rem;
-  font-size: 5rem;
   display: inline-flex;
   /*color: #7ABE70;*/
     background: -webkit-linear-gradient(130deg, #DCAD51, #E8CA8D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
 h2 {
   font-size: 4rem;
@@ -250,4 +241,15 @@ a:hover {
 }
 .controls {
   margin: 3rem 0 2rem;
+}
+
+@media only screen and (max-width: 620px) {
+
+   body { 
+      font-size: 1em; 
+  }
+  h1 {
+    font-size: 15px;
+  }
+
 }
