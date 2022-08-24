@@ -1,6 +1,6 @@
 ---
 title: Plant Companionships
-description: class notes for companionships for plants!
+description: class notes for companionships for plants🌿🤝🥕!
 date: 2022-08-22
 tags:
   - posts

@@ -123,6 +123,11 @@ body {
   margin: 0 auto;
 }
 
+.content img {
+  width: 75%;
+  height: auto;
+  margin
+}
 /* Typography */
 p {
   margin: 0 0 1rem 0;

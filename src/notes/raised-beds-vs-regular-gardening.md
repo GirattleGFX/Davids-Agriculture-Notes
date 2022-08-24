@@ -1,7 +1,7 @@
 ---
 title: Raised Beds VS Regular Gardening
-description: class notes for the differece between raised beds & regular gardens!
-date: 2022-08-22
+description: class notes for the differece between raised beds & regular gardens🌿!
+date: 2022-08-23
 tags:
   - posts
 layout: layouts/post.njk
