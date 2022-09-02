@@ -1,6 +1,6 @@
 ---
 title: Plant Companionships
-description: class notes for companionships for plants🌿🤝🥕!
+description: class notes for companionships for plants!
 date: 2022-08-22
 tags:
   - posts
@@ -21,4 +21,4 @@ The three sisters trio is also a great example of companionship planting! Each o
 
 ### Plant companionship chart
 
-  <img src="https://cdn.glitch.global/eebc1f7f-4fa6-4f6d-accf-3092cca49bf1/cfa26d0b-9daf-4eef-85d2-18879a286fd3.image.png?v=1661185686012" alt="Plant companionship chart" style="width: 75%">
+<img src="https://cdn.glitch.global/eebc1f7f-4fa6-4f6d-accf-3092cca49bf1/cfa26d0b-9daf-4eef-85d2-18879a286fd3.image.png?v=1661185686012" alt="Plant companionship chart">
