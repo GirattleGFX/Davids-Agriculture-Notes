@@ -64,13 +64,15 @@ Mar 24 - May 19
 
 ### Companion Plants ✅ *(and why they are friends <3)*
 
-####
+#### Beans
 
-####
+#### Endive
 
-####
+#### Horseradish
 
-####
+#### Lettuce
+
+#### Spinach
 
 ### Combative Plants ❌ *(and why they are not great friends)* 
 
