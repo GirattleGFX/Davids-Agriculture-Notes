@@ -27,24 +27,42 @@ full sun, strawberries grow best in full sunlight
 
 #### Water
 
-1
+1 inch per week
 
-#### 
+#### Season
 
-#### 
+strawberries will grow perennially and come back year after year
 
-#### 
+#### Frost Tolerant
 
-#### 
+Tolerates hard frost
+
+#### Germination
+
+1-6 weeks
+
+#### Sprout to Harvest
+
+1 year
 
 ### Growing Calendar 📅
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiLKsD0qGRgZBdbZQJWwEuFlp_z5yHHvyCAWye2_-V6Og3ypUTtsEtTtGbtS_Xlv5hzkaAQ2noiWc_/pubhtml?widget=true&amp;headers=false" width="85%" height="125px auto"></iframe>
 
+Start Inside (red) | Transplant (yellow) | Sow Outside (purple)
+
 ### Varieties 🍓
 [Click here](https://strawberryplants.org/strawberry-varieties/#list-of-strawberry-types) to view all varieties of strawberries
 
 ### Companion Plants ✅ *(and why they are friends <3)*
+
+####
+
+####
+
+####
+
+####
 
 ### Combative Plants ❌ *(and why they are not great friends)* 
 
