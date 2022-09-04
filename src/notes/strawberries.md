@@ -51,6 +51,14 @@ Tolerates hard frost
 
 Start Inside (red) | Transplant (yellow) | Sow Outside (purple)
 
+#### Start Inside
+
+N/A, most gardeners don't start strawberries inside
+
+#### Transplant
+
+Mar 24 - May 19
+
 ### Varieties 🍓
 [Click here](https://strawberryplants.org/strawberry-varieties/#list-of-strawberry-types) to view all varieties of strawberries
 
