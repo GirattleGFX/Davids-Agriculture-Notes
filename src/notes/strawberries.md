@@ -17,21 +17,42 @@ fruit
 
 ### Quick Info 📑
 
+#### Spacing
+
+4 seeds per square foot
+
+#### Sun
+
+full sun, strawberries grow best in full sunlight
+
+#### Water
+
+1
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
 ### Growing Calendar 📅
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiLKsD0qGRgZBdbZQJWwEuFlp_z5yHHvyCAWye2_-V6Og3ypUTtsEtTtGbtS_Xlv5hzkaAQ2noiWc_/pubhtml?widget=true&amp;headers=false" width="85%" height="125px auto"></iframe>
 
 ### Varieties 🍓
+[Click here](https://strawberryplants.org/strawberry-varieties/#list-of-strawberry-types) to view all varieties of strawberries
 
 ### Companion Plants ✅ *(and why they are friends <3)*
 
-### Combative Plants x. *(and why they are not great friends)* 
+### Combative Plants ❌ *(and why they are not great friends)* 
 
-### Pests 🐞
+### Pests 🐛
 
 ### Diseases 😷
 
-### Beneficial Critters 🐛
+### Beneficial Critters 🐞
 
 ### Growing From Seed 🌱
 
