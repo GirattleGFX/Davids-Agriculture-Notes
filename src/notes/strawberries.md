@@ -17,13 +17,15 @@ fruit
 
 ### Quick Info 📑
 
-### Growing Calendar 🗓
+### Growing Calendar 📅
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiLKsD0qGRgZBdbZQJWwEuFlp_z5yHHvyCAWye2_-V6Og3ypUTtsEtTtGbtS_Xlv5hzkaAQ2noiWc_/pubhtml?widget=true&amp;headers=false" width="85%" height="125px auto"></iframe>
 
 ### Varieties 🍓
 
-### Companion Plants ✔ *(and why they are friends <3)*
+### Companion Plants ✅ *(and why they are friends <3)*
 
-### Combative Plants ❌ *(and why they are not great friends)* 
+### Combative Plants x. *(and why they are not great friends)* 
 
 ### Pests 🐞
 
