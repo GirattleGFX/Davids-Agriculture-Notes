@@ -7,34 +7,36 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Description
+### Description 📚
 
 June-bearing or spring-bearing, everbearing and day-neutral are the three main types of strawberries. Fruits of day-neutral plants and everbearers are usually smaller than June-bearers' fruit. June-bearing strawberries produce a crop during a two-to-three week period in the spring. June-bearers produce flowers, fruits and runners. Everbearing strawberries produce three periods of flowers and fruit during the spring, summer and fall. Everbearers do not produce many runners. Day neutral strawberries will produce fruit throughout the growing season. These strawberries produce just a few runners. Everbearing and day neutral strawberries are great for gardeners who have limited space. They can be grown in terraced beds, barrels or pyramids. They can also be used as an edging plant or a groundcover.
 
-### Category
+### Category 🍓
 
 fruit 
 
-### Quick Info
+### Quick Info 📑
 
-### Growing Calendar 
+### Growing Calendar 🗓
 
-### Companion Plants (And why they are friends <3)
+### Varieties 🍓
 
-### Combative Plants (And why they are not great friends)
+### Companion Plants ✔ *(and why they are friends <3)*
 
-### Pests
+### Combative Plants ❌ *(and why they are not great friends)* 
 
-### Diseases
+### Pests 🐞
 
-### Beneficial Critters
+### Diseases 😷
 
-### Growing From Seed
+### Beneficial Critters 🐛
 
-### Growing From Starter-Plant
+### Growing From Seed 🌱
 
-### Feeding
+### Growing From Starter-Plant 🌿
 
-### Harvest
+### Feeding 😋
 
-### Storage
+### Harvest 👨‍🌾
+
+### Storage 🥫
