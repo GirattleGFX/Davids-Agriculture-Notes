@@ -88,6 +88,10 @@ Mar 24 - May 19
 
 ### Feeding 😋
 
+Before planting, apply one pound per 100 square feet of a 10-10-10 fertilizer and dig into soil at least six to eight inches deep. After the first harvest in the second season, strawberries should be fertilized after renovation in July. Water the fertilizer in to get it down to the root zone. This application is made to keep the plants in a vigorous condition and to promote new growth causing the development of more fruit buds. However, overfertilization will cause excessive vegetative growth, reduce yields; increase losses from frost and foliar disease and result in winter injury.
+
 ### Harvest 👨‍🌾
+
+Harvest fully ripe fruit every few days. Cut the stem instead of pulling the berry.
 
 ### Storage 🥫
